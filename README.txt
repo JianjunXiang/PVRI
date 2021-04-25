@@ -9,7 +9,8 @@ in its entirety appear in all copies of this code, and the original source of th
 in any publication that reports research using this code. The research is to be cited in the bibliography as:
 
 [1] Jianjun Xiang, Mei Yu, Gangyi Jiang, Haiyong Xu, Yang Song and Yo-Sung Ho. "Pseudo Video and Refocused Images
- Based Blind Light Field Image Quality Assessment", Accepted, IEEE Transactions on Circuits and Systems for Video Technology.
+Based Blind Light Field Image Quality Assessment",  IEEE Transactions on Circuits and Systems for Video Technology.
+doi: 10.1109/TCSVT.2020.3030049.
 
 Author  : Jianjun Xiang
 
@@ -37,3 +38,15 @@ If you have any question about the code, please contact to 1811082122@nbu.edu.cn
 
 Thank you!
 =======================================================================
+New! Add description！
+The NBU-LF 1.0 dataset is publicly available. The link is as follow:
+https://pan.baidu.com/s/1u-s7xEvFTbv9ahaXZsaeCw 
+password：qsn8
+
+If you use NBU-LF 1.0 dataset, please cite
+[1] Z. Huang, M. Yu, G. Jiang, K. Chen, Z. Peng, and F. Chen, “Reconstruction distortion oriented light field image dataset 
+for visual vommunication,” in Int'l. Symp. Net. Comp. Commun. (ISNCC), Istanbul, Turkey, 2019, pp. 1-5.
+
+Thank you!
+
+
