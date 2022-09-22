@@ -40,13 +40,11 @@ Thank you!
 =======================================================================
 New! Add description！
 The NBU-LF 1.0 dataset is publicly available. The link is as follow:
-https://pan.baidu.com/s/1u-s7xEvFTbv9ahaXZsaeCw 
-password：qsn8
+https://pan.baidu.com/s/1Jqr9KO-vhac9qtUv4aEJpA
+password：zj8m
 
 If you use NBU-LF 1.0 dataset, please cite
 [1] Z. Huang, M. Yu, G. Jiang, K. Chen, Z. Peng, and F. Chen, “Reconstruction distortion oriented light field image dataset 
 for visual vommunication,” in Int'l. Symp. Net. Comp. Commun. (ISNCC), Istanbul, Turkey, 2019, pp. 1-5.
-
-Thank you!
 
 
